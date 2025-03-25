@@ -64,6 +64,8 @@ A user-friendly platform for ordering meals online.
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=DMNgoboki&label=Profile%20Views&color=blue&style=flat)
+
 ## 📫 Connect with Me  
 📧 **Email:** [dmngo63@gmail.com](mailto:dmngo63@gmail.com)  
 🔗 **GitHub:** [https://github.com/DMNgoboki](https://github.com/DMNgoboki)  
